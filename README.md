@@ -1,8 +1,13 @@
-## Welcome to GitHub Pagesss
+## Thiago Rafael Ferreira
 
-You can use the [editor on GitHub](https://github.com/thiagorafaelferreira/thiagorafaelferreira.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bem-vindo ao meu site Profissional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se você chegou até aqui é provável que queira saber um pouco da minha história profissional, ou como tudo isto começou!
+Bom, eu sempre fui daquelas crianças que gostava de desmontar as coisas em casa, se meus pais não estivessem olhando desmontaria a televisão.
+Mas como era de família bem humilde não tinha muito acesso a tecnologias de ponta, fui mesmo ter meu primeiro computador aos 20 anos.
+Eu era apaixonado por tecnologia, acessava blogues e sites que falavam a respeito, comecei estuando muita coisa de hardware, depois aprendi sobre sistemas,
+até o momento em que me deparei com a programação de computadores. Ali achei meu real caminho, desde então tenho trilhado a vida de programdor.
+Meu foco incial foi aprender Java como programador, claro que aprendi outras linguagens no decorrer da minha carreira. Mas continuo hoje focado em programar em Java.
 
 ### Markdown
 
